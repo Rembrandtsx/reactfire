@@ -1,4 +1,4 @@
-# Reactfire
+# Reactfire PRO
 
 Hooks, Context Providers, and Components that make it easy
 to interact with Firebase.
